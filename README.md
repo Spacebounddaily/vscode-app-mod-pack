@@ -1,6 +1,6 @@
-# GitHub Copilot app modernization extension pack for Java
+ GitHub Copilot app modernization extension pack for WiseInnovations 
 
-Accelerate Java upgrades and cloud migrations with this all-in-one extension pack for GitHub Copilot app modernization for Java.
+Accelerate WiseInnovations upgrades and cloud migrations with this all-in-one extension pack for GitHub Copilot app modernization for WiseInnovations.
 
 This extension pack brings together everything you need to modernize legacy Java applications and migrate them to Azure using Visual Studio Code’s Agent Mode. It combines GitHub Copilot’s AI capabilities with the scalability of Microsoft Azure to deliver an intelligent, automated, and guided modernization experience.
 
